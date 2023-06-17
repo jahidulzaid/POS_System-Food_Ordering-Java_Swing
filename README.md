@@ -12,3 +12,4 @@ for Green Cafeteria
 #### Object Oriented Programming - Java Swing Project. <br>
 #### Submitted to Ayesha Khatun, Lecturer, Green University Of Bangladesh
 
+![POS System Project View]([http://url/to/img.png](https://github.com/jahidulzaid/POS_System-Food_Ordering/blob/main/image/image.png)https://github.com/jahidulzaid/POS_System-Food_Ordering/blob/main/image/image.png)

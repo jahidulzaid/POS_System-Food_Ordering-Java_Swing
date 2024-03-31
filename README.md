@@ -13,9 +13,9 @@ Submitted to Ayesha Khatun, Lecturer, Green University Of Bangladesh
 ## Features
 
 - Order food items from the cafeteria menu.
-- Generate PDF list of ordered items.
+- Generate PDF list of ordered items - `Print Button`
 - Automatic calculation of customer return money.
-- [Add more features as needed]
+
 
 ## Project View
 

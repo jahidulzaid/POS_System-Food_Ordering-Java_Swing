@@ -28,13 +28,13 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-[https://github.com/jahidulzaid/POS_System-Food_Ordering-Java_Swing.git](https://github.com/jahidulzaid/POS_System-Food_Ordering-Java_Swing.git)
-
-
+[https://github.com/jahidulzaid/POS_System-Food_Ordering-Java_Swing.git]
+```
 
 2. Open the project in your preferred Java IDE (e.g., NetBeans, IntelliJ IDEA).
 
 3. Build and run the project.
+
 
 ## Usage
 
